@@ -1,4 +1,9 @@
 ## Hi there 👋
+I'm working on creating user friendly access to some of the more common NMminer cyd esp32 micro miner devices to point to 5tratum OS home crypto miner setup. 
+
+first project got a CHTA Cheetahcoin app ready to test,  
+
+next I believe I want a local firmware update to be attached through the node then the USB hub ports can update the devices if left to power them and give a clean direct link to open source firmware sent the needed rights and build to preform from a 5tratum app perspective.
 
 <!--
 **5tratNodeApps/5tratNodeApps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
